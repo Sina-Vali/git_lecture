@@ -1,7 +1,6 @@
 cucumber
 avacado
 sauce
-cilantro
 garlic
 salt 
 pepper
