@@ -4,3 +4,4 @@ sauce
 garlic
 salt 
 pepper
+mint
